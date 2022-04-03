@@ -1,6 +1,6 @@
 # Substack Blog
 
-Mightily minimal vanilla blog post site.
+Mightily minimal vanilla blog post site - see [demo](https://blogstack.vercel.app/).
 
 Just HTML + CSS + JS.
 
