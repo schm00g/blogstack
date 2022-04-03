@@ -1,5 +1,7 @@
 # Substack Blog
 
+:construction: Under Construction :construction:
+
 Mightily minimal vanilla blog post site - see [demo](https://blogstack.vercel.app/).
 
 Just HTML + CSS + JS.
