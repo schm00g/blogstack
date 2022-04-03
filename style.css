@@ -1,0 +1,17 @@
+body {
+    background-color: rgba(240, 243, 212, 0.432);
+    /* @media width */
+    margin: auto 28%;
+    margin-top: 5rem;
+    font-family: 'Spectral', serif;
+    font-size: 19px;
+    line-height: 2.05rem;
+}
+
+#date {
+    font-size: 15px;
+    color: rgb(156, 156, 156);
+    background-color: rgb(224, 224, 224);
+    border-radius: 20px;
+    padding: 0.5% 1.5%;
+}   
